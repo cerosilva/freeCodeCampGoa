@@ -1,0 +1,10 @@
+#main {
+ padding-top: 20px;
+ padding-bottom: 30px;
+    }
+
+.jumbotron-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+  }
